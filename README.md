@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on Building Modern Systems<br>👯 I’m looking to collaborate on Open Source Projects<br>🤝 I’m looking for Great opporunties to enhance my skills and contribute my best in making good products for users <br>🌱 I’m currently learning system Design,Aws cloud <br>💬 Ask me about tech<br>⚡ Fun fact Stack Overflow gets ~50 million visitors/month — built on just 9 on-prem servers for years.     Portfolio : https://mohammsameer.github.io/
+🔭 I’m currently working on Building Modern Systems<br>👯 I’m looking to collaborate on Open Source Projects<br>🤝 I’m looking for Great opporunties to enhance my skills and contribute my best in making good products for users <br>🌱 I’m currently learning system Design,Aws cloud <br>💬 Ask me about tech<br>⚡ Fun fact Stack Overflow gets ~50 million visitors/month — built on just 9 on-prem servers for years.      Portfolio : https://mohammsameer.github.io/
 
 
 ## 🌐 Socials:
