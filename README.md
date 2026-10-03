@@ -1,23 +1,209 @@
-## Hi there 👋
+<h1 align="center">Mohammad Sameer</h1>
 
-# 💫 About Me:
-🔭 I’m currently working on Building Modern Systems<br>👯 I’m looking to collaborate on Open Source Projects<br>🤝 I’m looking for Great opporunties to enhance my skills and contribute my best in making good products for users <br>🌱 I’m currently learning system Design,Aws cloud <br>💬 Ask me about tech<br>⚡ Fun fact Stack Overflow gets ~50 million visitors/month — built on just 9 on-prem servers for years.      Portfolio : https://mohammsameer.github.io/
+<p align="center">
+  <b>Full-Stack Developer · 1 year · Solis Technology, Gurgaon</b><br/>
+  NestJS · Next.js · TypeScript · PostgreSQL · AWS<br/>
+  <i>Open to SDE-1 / SDE-2 backend and full-stack roles</i>
+</p>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/___.sameer__07_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-sameer123) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/MohammadSameer) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sameermunthaj@gmail.com) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=MohammSameer&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=MohammSameer&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=MohammSameer&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MohammSameer&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <a href="https://mohammsameer.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://linkedin.com/in/md-sameer123"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"/></a>
+  <a href="mailto:sameermunthaj@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=MohammSameer&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+
+I build the parts of a product where a mistake costs money or trust: approval workflows, commission and payments, document processing, audit trails and access control. At **Solis Technology** I work across three products:
+
+- **Solis Insurify:** insurance distribution
+- **HRMS:** a multi-tenant HR and payroll SaaS
+- **Aurum CoNexus:** a members-only leadership network
+
+I work AI-first with Claude Code. My commit messages record the reasoning and root cause behind each change, and most changes ship with tests.
+
+> **Where's the activity?** Company code is private and committed from my work account, [@mohammadsameer-byte](https://github.com/mohammadsameer-byte). The contribution graph on this profile only shows personal projects.
+
+| Product | My period | My footprint |
+|---|---|---|
+| **Solis Insurify** | Jan 2026 – present | 44 merged PRs · 31 database migrations · 200+ test files |
+| **HRMS** | Apr – Jul 2026 | 24 database migrations · 116 test files (unit, integration, Playwright) |
+| **Aurum CoNexus** | Dec 2025 – May 2026 | 3 backend modules · 21 API endpoints · only committer across 4 repos since Jan 2026 |
+
+---
+
+## 🚀 Engineering Highlights
+
+### 💰 Found why commission was coming out as ₹0 · *Solis Insurify*
+**Outcome:** commission that was silently computing as zero is now priced from the correct rates. Correcting a policy re-prices it safely, without touching money that's already been paid.
+
+I traced the zero to four separate faults hiding behind each other:
+- a config key nobody read
+- a failed rate lookup that returned 0 instead of falling back
+- mismatched product and product-version IDs
+- pricing inputs that never left the finance service
+
+Those inputs now travel end to end (events, DTOs, gRPC), and rates are pinned to the product version in force on the sale date. Re-pricing is append-only, recorded as a reversal plus a new accrual. It refuses to run once any instalment is paid, and database `CHECK` constraints are the last guard. Another engineer started the engine; I'm now its main author, and I built the Payin Dashboard and the configurable settlement terms.
+
+`NestJS` `gRPC` `PostgreSQL` `Prisma` `Next.js` `Jest`
+
+### 📄 Policy PDFs that fill in the form themselves · *Solis Insurify*
+**Outcome:** a relationship manager uploads an insurer's policy PDF and the policy form fills itself. Any field the engine isn't confident about is flagged for review instead of guessed. Now live in production.
+
+- **Why the old approach failed:** regex over flattened PDF text broke on insurers' column layouts.
+- **What I built:** a two-layer engine. A geometry layer rebuilds rows, cells and label/value pairs across columns. A semantic layer classifies pages, scopes sections, and maps each field with a confidence score and a record of where it came from.
+- **How it stays safe:**
+  - It shipped behind a feature flag, with the old parser kept as a fallback whose values are only ever suggested.
+  - Every run is audited.
+  - A golden-file test set enforces a minimum recall that can only go up.
+  - 300+ tests.
+
+`TypeScript` `NestJS` `pdf.js` `PostgreSQL` `Prisma` `Next.js` `Jest`
+
+### 🧾 Offer letters from HR's own templates · *HRMS*
+**Outcome:** HR generates offer letters from its existing PDF templates, and documents candidates submit before the offer carry straight into onboarding. I also fixed two bugs HR reported from production: letters printing blank characters, and salaries showing 100× too small.
+
+**How it works:**
+1. Three detectors read text positions from the template: explicit tokens, label-plus-blank, and underlined runs.
+2. An admin reviews the fields they found.
+3. pdf-lib stamps real form fields into the template.
+
+**The two production bugs:**
+- The blank characters came from pdf-lib's runtime font subsetting. I replaced it with a font subset built offline with HarfBuzz.
+- The 100× error came from one form sending paise and another sending rupees. Everything now uses one unit, and every offer is checked against the requisition's salary band.
+
+Copying pre-offer documents into onboarding is safe to re-run and integration-tested with Testcontainers.
+
+`NestJS` `pdf.js` `pdf-lib` `PostgreSQL` `Prisma` `Next.js` `Vitest` `Testcontainers`
+
+<details>
+<summary><b>Two more deep-dives: keeping data consistent across services</b></summary>
+<br/>
+
+#### 🔁 Agent reassignment that can't drift · *Solis Insurify*
+**Outcome:** HR moves sales agents between managers in one batch. Every downstream service picks up the change, and retries on its own if a service is down. Turning on the reconciler repaired a mirror table that was missing most agents.
+
+- An append-only ledger that doubles as a transactional outbox, with delivery tracked per downstream service, retries with backoff, and a reconciler that checks against live data
+- Idempotency keys backed by a unique index; batched compare-and-swap updates that report concurrent edits instead of overwriting them
+- I built the schema, service, scheduled jobs, the receiving endpoint in each of four services, and the HR screen; 92 tests
+
+`NestJS` `PostgreSQL` `Prisma` `Next.js` `Jest`
+
+#### 🪪 KYC case lifecycle with rules enforced in the database · *Solis Insurify*
+**Outcome:** partner onboarding stopped producing duplicate KYC cases and approvals that could never complete. Rejected documents and bank proofs can now be corrected without starting over.
+
+- One case-state model shared by two services and three portals, replacing status lists that had drifted apart
+- A partial unique index guarantees one open case per agent. Re-linking a document is safe to repeat. Automation stops instead of guessing when two status sources disagree.
+- Fair reviewer assignment (least recently assigned) inside a transaction, and per-document rejection with an append-only review history
+- I built the module and wrote most of its history; 190+ tests
+
+`NestJS` `PostgreSQL` `Prisma` `Next.js` `Jest`
+
+</details>
+
+<details>
+<summary><b>More from Solis Insurify</b></summary>
+<br/>
+
+- **Sales credited to the right agent:** policies now record who sold them, not who typed them in. This restored 34 policies to their agents' portals without moving any commission.
+- **Lead → policy conversion:** a separate "issued by the insurer" lifecycle keeps paid-but-unissued business out of renewals and commission clawbacks.
+- **Leads Assigner role:** access is denied unless explicitly allowed. Lead claims are transactional, so two assigners can't overwrite each other. Leads are distributed down the sales reporting line.
+- **Activity and audit log:**
+  - every event is delivered at least once, and duplicates are processed only once
+  - a dead-letter queue catches failures
+  - personal data is redacted from stored payloads
+  - a test fails if any event type lacks a handler
+- **Reporting-line access control:** one recursive-CTE hierarchy resolver defines team scope for five services.
+- **Insurer email ticketing:** HMAC-signed reply addresses, and replies matched to their ticket in three tiers (signed alias → Message-ID chain → subject tag).
+- **Daily business report:** a single server-side source of truth, plus a scheduled email sent exactly once, with a retry sweep and catch-up on restart.
+- **Operations service foundations:** KYC, claims, SLA timers on a business-hours calendar, and contests with live leaderboards.
+- **Real-time support chat:** Socket.IO with a Redis adapter, presence and read receipts.
+- **Employee onboarding on Better Auth:**
+  - email invites
+  - routing to the right portal by role
+  - email-address normalisation
+  - fail-closed authentication between services
+- **Team tooling:** a conventional-commit hook and a PR-title CI gate, now used across the repo.
+
+</details>
+
+<details>
+<summary><b>More from HRMS</b></summary>
+<br/>
+
+- **SaaS billing layer, built from scratch:**
+  - usage metering
+  - per-employee pricing with GST invoicing
+  - Razorpay payments
+  - follow-up on failed payments (dunning)
+  - plan entitlement checks
+  - billing workflows on Temporal
+- **Access control:** role checks added to 68 API controllers, separation-of-duties rules, per-user rate limiting, and a 54-spec per-role Playwright suite in CI.
+- **Payroll:** salary templates, structure revisions and a recovery ledger.
+- **Attendance:** a shift roster and an employee calendar.
+
+</details>
+
+<details>
+<summary><b>More from Aurum CoNexus</b></summary>
+<br/>
+
+- **Google Workspace scheduling:** a service-account integration that creates Meet links automatically, syncs attendees, regenerates links on reschedule, and checks each staff member's bookings for overlaps.
+- **IST-safe dates:** one time-zone convention across the meeting APIs, whatever the server's time zone.
+- **Event registration:** confirmed only by Razorpay's payment webhook, with a bypass for free events. Draft events notify members on publish.
+- **Membership upgrades:** a request workflow with admin push notifications, plus admin dashboard and newsletter APIs.
+
+</details>
+
+---
+
+## 🛠️ Personal Projects
+
+### 🤖 [Sugam Form Filler](https://github.com/MohammSameer/sugam-form-filler): an AI agent that helps people fill government forms
+Upload a photo of a form. The agent explains every field in your language, asks one question at a time, and returns a filled PDF.
+- **Google ADK multi-agent setup:** an orchestrator hands off to a vision form-reader and a conversational data collector
+- **Gemini 2.5 Flash vision,** in 10 Indian languages
+- **A security checkpoint before every model call:** masks Aadhaar, PAN and bank numbers, blocks prompt injection, and writes an audit log
+- **An MCP server** for form parsing, scheme lookup and PDF generation
+
+`Python` `Google ADK` `Gemini` `MCP` `pytest`
+
+### 💳 [CoinStack](https://github.com/MohammSameer/financial-app): credit-card spend analytics and rewards · [**Live demo**](https://coin-stack.vercel.app)
+*A take-home assignment, built and deployed end to end.*
+- Loads 10,000 deliberately messy transactions without dropping a row, and shows a data-quality report in the UI
+- Filtering, sorting and paging all happen in PostgreSQL. The charts and table share one filter, so each one narrows the other.
+- Atomic coin redemption that is safe to retry, enforced by a unique index; the UI updates optimistically and rolls back on failure
+- Every component built by hand, with no UI library; keyboard and screen-reader support
+
+`Next.js` `React` `TypeScript` `FastAPI` `PostgreSQL` `pytest`
+
+### 🍔 EpicEats: food-delivery web app · [**Live demo**](https://epic-eats-frontend.vercel.app) · [Frontend](https://github.com/MohammSameer/epicEats_frontend) · [Backend](https://github.com/MohammSameer/epicEats_backend)
+*My internship project.*
+- JWT authentication with bcrypt-hashed passwords, a shared cart and order history
+- A paginated catalogue API where the client chooses which fields come back, with an optional Redis cache the API keeps working without
+
+`React` `Express` `MongoDB` `Redis`
+
+---
+
+## 💻 Tech Stack
+
+| | |
+|---|---|
+| **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=flat-square) ![Temporal](https://img.shields.io/badge/Temporal-000000?style=flat-square&logo=temporal&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
+| **Data** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
+| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Nx](https://img.shields.io/badge/Nx-143055?style=flat-square&logo=nx&logoColor=white) |
+| **Testing** | ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white) ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square) |
+| **AI** | ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square) |
+
+---
+
+## 🎓 Experience & Education
+
+- **Full-Stack Developer**, Solis Technology, Gurgaon · *Oct 2025 – present*
+- **Web Development Intern**, Edunet Foundation (EY GDS & AICTE) · *Mar – Apr 2025*
+- **B.Tech, Computer Science & Engineering**, Sri Indu College · *2021 – 2025*
